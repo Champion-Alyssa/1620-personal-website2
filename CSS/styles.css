@@ -1,7 +1,23 @@
 body {
-    background-color: #bc8da0;
+    background-color: #e5dada;
 }
 
 h1 {
-    color: #DCEDB9;
+    color:  #002642;
 }
+
+nav{
+    
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    font-family: 'Rubik', sans-serif;
+    color: black
+}
+
+section{
+    background-color: white;
+    height: 8vh;
+}
+
