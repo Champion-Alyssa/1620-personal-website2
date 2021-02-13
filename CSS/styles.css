@@ -6,18 +6,26 @@ h1 {
     color:  #002642;
 }
 
-nav{
+html{
     
     font-family: 'Rubik', sans-serif;
 }
 
-body{
-    font-family: 'Rubik', sans-serif;
-    color: black
-}
+
+
 
 section{
     background-color: white;
     height: 8vh;
 }
+
+.class_for_about_page{
+    background-color: #e5dada;
+
+}
+
+.class_for_courses_page {
+    background-color: #e5dada;
+}
+
 
